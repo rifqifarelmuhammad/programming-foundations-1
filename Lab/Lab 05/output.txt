@@ -1,0 +1,14 @@
+1    racecar                  palindrome
+2    alanturing           not palindrome
+3    redivider                palindrome
+4    saippuakivikauppias      palindrome
+5    rashadaziz           not palindrome
+6    notapalindrome       not palindrome
+7    janlukasiewicz       not palindrome
+8    apakabar             not palindrome
+9    ""                       palindrome
+10   redder                   palindrome
+11   michaelfreak         not palindrome
+12   johanestrg           not palindrome
+13   0110110110               palindrome
+14   tattarrattat             palindrome
